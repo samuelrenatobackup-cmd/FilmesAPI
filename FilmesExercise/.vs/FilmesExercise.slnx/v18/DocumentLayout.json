@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\54157995830\\Desktop\\FilmesExercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7CADC9-4FE1-609F-38CB-95600C4DDB74}|FilmesExercise.csproj|c:\\users\\54157995830\\desktop\\filmesexercise\\models\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7CADC9-4FE1-609F-38CB-95600C4DDB74}|FilmesExercise.csproj|solutionrelative:models\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7CADC9-4FE1-609F-38CB-95600C4DDB74}|FilmesExercise.csproj|c:\\users\\54157995830\\desktop\\filmesexercise\\db\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7CADC9-4FE1-609F-38CB-95600C4DDB74}|FilmesExercise.csproj|solutionrelative:db\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7CADC9-4FE1-609F-38CB-95600C4DDB74}|FilmesExercise.csproj|c:\\users\\54157995830\\desktop\\filmesexercise\\models\\diretor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7CADC9-4FE1-609F-38CB-95600C4DDB74}|FilmesExercise.csproj|solutionrelative:models\\diretor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7CADC9-4FE1-609F-38CB-95600C4DDB74}|FilmesExercise.csproj|c:\\users\\54157995830\\desktop\\filmesexercise\\models\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7CADC9-4FE1-609F-38CB-95600C4DDB74}|FilmesExercise.csproj|solutionrelative:models\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7CADC9-4FE1-609F-38CB-95600C4DDB74}|FilmesExercise.csproj|c:\\users\\54157995830\\desktop\\filmesexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7CADC9-4FE1-609F-38CB-95600C4DDB74}|FilmesExercise.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7CADC9-4FE1-609F-38CB-95600C4DDB74}|FilmesExercise.csproj|c:\\users\\54157995830\\desktop\\filmesexercise\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CA7CADC9-4FE1-609F-38CB-95600C4DDB74}|FilmesExercise.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\54157995830\\Desktop\\FilmesExercise\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\54157995830\\Desktop\\FilmesExercise\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-18T18:49:10.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Genero.cs",
+              "DocumentMoniker": "C:\\Users\\54157995830\\Desktop\\FilmesExercise\\Models\\Genero.cs",
+              "RelativeDocumentMoniker": "Models\\Genero.cs",
+              "ToolTip": "C:\\Users\\54157995830\\Desktop\\FilmesExercise\\Models\\Genero.cs",
+              "RelativeToolTip": "Models\\Genero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T18:10:20.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\54157995830\\Desktop\\FilmesExercise\\Db\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Db\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\54157995830\\Desktop\\FilmesExercise\\Db\\AppDbContext.cs",
+              "RelativeToolTip": "Db\\AppDbContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T17:56:28.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Diretor.cs",
+              "DocumentMoniker": "C:\\Users\\54157995830\\Desktop\\FilmesExercise\\Models\\Diretor.cs",
+              "RelativeDocumentMoniker": "Models\\Diretor.cs",
+              "ToolTip": "C:\\Users\\54157995830\\Desktop\\FilmesExercise\\Models\\Diretor.cs",
+              "RelativeToolTip": "Models\\Diretor.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T17:51:29.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Filme.cs",
+              "DocumentMoniker": "C:\\Users\\54157995830\\Desktop\\FilmesExercise\\Models\\Filme.cs",
+              "RelativeDocumentMoniker": "Models\\Filme.cs",
+              "ToolTip": "C:\\Users\\54157995830\\Desktop\\FilmesExercise\\Models\\Filme.cs",
+              "RelativeToolTip": "Models\\Filme.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T17:51:16.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\54157995830\\Desktop\\FilmesExercise\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\54157995830\\Desktop\\FilmesExercise\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T17:49:07.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
